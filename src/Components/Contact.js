@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
@@ -13,7 +14,7 @@ const Contact = ({ data }) => {
        e.preventDefault();
       window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
     }
-    
+
 
     return (
       <section id="contact">
