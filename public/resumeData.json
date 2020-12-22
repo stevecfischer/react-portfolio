@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
+    "name": "Jen Duval",
+    "occupation": "Web Designer",
+    "description": "Digital/Print designer and web developer",
     "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "bio": "My name is Jen, I'm a Web Developer. Currently I'm working at Steve's house.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
+    "email": "test@tes.com",
     "phone": "+1 800 NAZ DUMA",
     "address": {
       "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
     "social": [
       {
         "name": "facebook",
@@ -89,16 +89,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
+        "title": "Image 1",
+        "category": "say stuff",
         "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "url": "https://google.com"
       },
       {
-        "title": "Robinhood Clone",
+        "title": "Image 2",
         "category": "Robinhood Clone built with ReactJS",
         "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://google.com"
       }
     ]
   },
